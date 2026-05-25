@@ -58,6 +58,9 @@ Power BI – Dashboard creation & data visualization
 Excel / CSV Dataset – Data source management
 Power Query – Data cleaning & transformation
 DAX (Data Analysis Expressions) – KPI calculations & measures
+# Dashboard View
+<img width="1178" height="659" alt="Screenshot 2026-05-25 182858" src="https://github.com/user-attachments/assets/8828d6a4-5d30-464c-aa0e-7c224ac02cc4" />
+
 # 📈 Key Insights
 Certain product categories contribute significantly to overall revenue.
 Specific regions and states generate higher sales performance.
